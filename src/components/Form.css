@@ -1,0 +1,22 @@
+input[type=text], input[type=email] , input[type=number], input[type=date] {
+    width: 25%;
+    padding: 5px 22px;
+    margin: 10px 0px;
+    box-sizing: border-box;  
+    border: 2px solid #58B19F;
+
+}
+
+
+input[type=submit] {
+    background-color: #8842d5;
+    border: none;
+    color: white;
+    padding: 8px 36px;
+    text-decoration: none;
+    border: 2px solid #ccc;
+    margin: 5px 4px;
+    cursor: pointer;  
+
+}
+

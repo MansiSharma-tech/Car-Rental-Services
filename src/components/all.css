@@ -1,0 +1,23 @@
+.c1 img{
+	width: 200px; height: 200px;
+	}
+	.c1{
+		background-color: #A59A95 ;
+	}
+
+nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 18vh;
+	background: rgb(73, 79, 82);
+	color: white;
+}
+
+.nav-links{
+	width: 40%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	list-style: none;     
+}
